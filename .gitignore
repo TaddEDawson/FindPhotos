@@ -1,0 +1,24 @@
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# CSV output files
+*.csv
+
+# PowerShell temporary files
+*.ps1xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test output
+test_output/
